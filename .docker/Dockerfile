@@ -62,6 +62,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   tesseract-ocr-fra \
   tesseract-ocr-por \
   tesseract-ocr-spa \
+  tesseract-ocr-nld \
   unpaper \
   wget
 
